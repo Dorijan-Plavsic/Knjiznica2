@@ -1,0 +1,32 @@
+C:\Users\Hus\Documents\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.exe
+C:\Users\Hus\Documents\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.deps.json
+C:\Users\Hus\Documents\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.json
+C:\Users\Hus\Documents\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.dev.json
+C:\Users\Hus\Documents\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Hus\Documents\repos\Knjiznica\bin\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csprojAssemblyReference.cache
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.Ucenici.resources
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csproj.GenerateResource.cache
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfoInputs.cache
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfo.cs
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.genruntimeconfig.cache
+C:\Users\Hus\Documents\repos\Knjiznica\obj\Debug\netcoreapp3.1\Knjiznica.Forme.DetaljiUcenika.resources
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\bin\Debug\netcoreapp3.1\Knjiznica.exe
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\bin\Debug\netcoreapp3.1\Knjiznica.deps.json
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.json
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\bin\Debug\netcoreapp3.1\Knjiznica.runtimeconfig.dev.json
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\bin\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\bin\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.csprojAssemblyReference.cache
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.Forme.DetaljiUcenika.resources
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.Ucenici.resources
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.csproj.GenerateResource.cache
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfoInputs.cache
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.AssemblyInfo.cs
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.dll
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.pdb
+C:\Users\Hus\Documents\repos\Knjiznica - Copy\obj\Debug\netcoreapp3.1\Knjiznica.genruntimeconfig.cache
